@@ -1,0 +1,70 @@
+a:hover {
+  color: #71c9ce;
+}
+
+body {
+background-color: #e3fdfd;
+text-align: center;
+font-family: sans-serif;
+}
+
+h1 {
+  color: #71c9ce;
+  font-size: 3rem;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #a6e3e9;
+border-width: 5px;
+margin-bottom: 70px;
+width: 4%;
+}
+
+img {
+  border-radius: 50%;
+  box-shadow: 4px 4px rgba(113,201,206,0.5);
+
+}
+
+.education-container {
+  width: 70%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.experience-container {
+  width: 60%;
+  margin: 50px 20px 50px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.copyright {
+  color: #71c9ce;
+  font-size: 0.85rem;
+}
+
+.footer {
+  background-color: #a6e3e9;
+  padding: 50px 0 20px;
+
+}
+
+.skills-container {
+  width: 70%;
+  margin: 50px 90px 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  padding-top: 50px;
+}
+
+#talign {
+  margin: auto;
+}
+/*color scheme: https://colorhunt.co/palette/42191*/
